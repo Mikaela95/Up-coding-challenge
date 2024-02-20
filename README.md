@@ -5,7 +5,8 @@ A simple term deposit calculator where you can watch your money grow in front of
 ## Screenshots
 
 The calculator itself:
-![image](https://github.com/Mikaela95/Up-coding-challenge/assets/38266413/c654c53f-b2d8-4c74-b9ac-e4f5d79fc0d3)
+![image](https://github.com/Mikaela95/Up-coding-challenge/assets/38266413/628491fc-4545-41c3-b4df-d3b3b7e0f8d7)
+
 
 
 ## Setup
